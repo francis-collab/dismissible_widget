@@ -65,13 +65,13 @@ It removes the selected item from the list and triggers `setState()` to rebuild 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/widget_presentation/dismissible_widget.git
+git clone https://github.com/your-username/dismissible_widget/widget_presentation.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd widget_presentation/dismissible_widget
+cd dismissible_widget/widget_presentation
 ```
 
 ### 3. Install Dependencies
