@@ -93,7 +93,7 @@ Make sure a **Flutter emulator or physical device** is connected.
 ## Project Structure
 
 ```
-dismissible_widget/
+widget_presentation/
 │
 ├── README.md
 ├── screenshot.png
