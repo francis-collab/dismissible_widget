@@ -31,7 +31,32 @@ class _InboxScreenState extends State<InboxScreen> {
     "Your package has shipped",
     "Meeting reminder",
     "Weekend plans",
-    "Discount offer inside"
+    "Discount offer inside",
+    "Project update from your team",
+    "Your order has been confirmed",
+    "Flight ticket booking details",
+    "Security alert from your account",
+    "Weekly newsletter",
+    "Invitation to networking event",
+    "Reminder: Submit your assignment",
+    "Your payment receipt",
+    "Flash sale starts today",
+    "New comment on your post",
+    "Account verification required",
+    "Your subscription renewal notice",
+    "New device login detected",
+    "Your monthly report is ready",
+    "Meeting agenda for tomorrow",
+    "Event registration confirmation",
+    "Your password was changed",
+    "Update your profile information",
+    "Daily news digest",
+    "You have a new follower",
+    "Promotion: 50% discount today",
+    "Feedback request for our service",
+    "Your delivery is on the way",
+    "Team collaboration update",
+    "Welcome to our community"
   ];
 
   @override
